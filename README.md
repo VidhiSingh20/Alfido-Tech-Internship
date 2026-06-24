@@ -1,25 +1,25 @@
-# Task-1 Iris Classification
 
-## Objective
+
+
 
 Build a machine learning classification model to predict Iris flower species using sepal and petal measurements.
 
-## Dataset
+
 
 Iris Classification Dataset
 
-### Features
+
 
 * sepal_length
 * sepal_width
 * petal_length
 * petal_width
 
-### Target
+
 
 * species
 
-## Exploratory Data Analysis (EDA)
+
 
 Performed:
 
@@ -28,13 +28,12 @@ Performed:
 * Correlation heatmap
 * Feature-wise boxplots
 
-## Models Implemented
 
 1. K-Nearest Neighbors (KNN)
 2. Logistic Regression
 3. Decision Tree
 
-## Evaluation Metrics
+
 
 * Accuracy
 * Precision
@@ -42,7 +41,7 @@ Performed:
 * F1-Score
 * Confusion Matrix
 
-## Results
+
 
 | Model               | Accuracy |
 | ------------------- | -------- |
@@ -50,15 +49,14 @@ Performed:
 | Logistic Regression | 93.33%   |
 | Decision Tree       | 93.33%   |
 
-## Best Model
+
 
 Logistic Regression
 
-## Saved Model
 
 `iris_best_model.joblib`
 
-## Inference Example
+
 
 ```python
 import joblib

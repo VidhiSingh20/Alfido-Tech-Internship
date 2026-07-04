@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -82,3 +83,77 @@ print(prediction[0])
 ## Conclusion
 
 The Iris classification model was successfully developed using multiple machine learning algorithms. All models achieved an accuracy of 93.33%, and Logistic Regression was selected as the final model for deployment and inference.
+=======
+# Alfido Tech Internship
+
+This repository contains the machine learning tasks completed during my internship at Alfido Tech.
+
+## Task 1 – Iris Flower Classification
+
+### Objective
+Build a machine learning classification model to predict Iris flower species.
+
+### Algorithms Used
+- Logistic Regression
+- Decision Tree
+- Random Forest
+
+### Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## Task 2 – House Price Prediction
+
+### Objective
+Build a regression model to predict house prices using property features.
+
+### Algorithms Used
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+### Feature Engineering
+- Sale Year
+- Sale Month
+- House Age
+- Renovation Age
+- Total Square Feet
+- Log Transformation of Target Variable
+
+### Evaluation Metrics
+- RMSE
+- MAE
+- R² Score
+
+### Best Model
+Gradient Boosting Regressor
+
+**Performance**
+- R² Score: 0.78
+- RMSE: 0.21
+- MAE: 0.15
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## Author
+
+**Vidhi Singh**
+>>>>>>> afb05ab (Added Task 1 and Task 2 projects)
